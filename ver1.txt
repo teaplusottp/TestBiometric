@@ -1,0 +1,174 @@
+CORRECT
+[2/100] Processing: 2.mp4... CORRECT
+[3/100] Processing: 3.mp4... CORRECT
+[4/100] Processing: 5.mp4... WRONG (Pred: Real | GT: Fake)
+[5/100] Processing: 7.mp4... WRONG (Pred: Fake | GT: Real)
+[6/100] Processing: 8.mp4... CORRECT
+[7/100] Processing: 10.mp4... CORRECT
+[8/100] Processing: 11.mp4... CORRECT
+[9/100] Processing: 12.mp4... WRONG (Pred: Real | GT: Fake)
+[10/100] Processing: 13.mp4... CORRECT
+[11/100] Processing: 14.mp4... CORRECT
+[12/100] Processing: 18.mp4... CORRECT
+[13/100] Processing: 19.mp4... CORRECT
+[14/100] Processing: 20.mp4... CORRECT
+[15/100] Processing: 22.mp4... CORRECT
+[16/100] Processing: 24.mp4... CORRECT
+[17/100] Processing: 25.mp4... CORRECT
+[18/100] Processing: 26.mp4... CORRECT
+[19/100] Processing: 28.mp4... CORRECT
+[20/100] Processing: 29.mp4... WRONG (Pred: Real | GT: Fake)
+[21/100] Processing: 30.mp4... CORRECT
+[22/100] Processing: 31.mp4... CORRECT
+[23/100] Processing: 33.mp4... CORRECT
+[24/100] Processing: 35.mp4... CORRECT
+[25/100] Processing: 36.mp4... WRONG (Pred: Real | GT: Fake)
+[26/100] Processing: 37.mp4... CORRECT
+[27/100] Processing: 39.mp4... CORRECT
+[28/100] Processing: 40.mp4... CORRECT
+[29/100] Processing: 41.mp4... WRONG (Pred: Real | GT: Fake)
+[30/100] Processing: 42.mp4... CORRECT
+[31/100] Processing: 44.mp4... CORRECT
+[32/100] Processing: 48.mp4... CORRECT
+[33/100] Processing: 52.mp4... WRONG (Pred: Real | GT: Fake)
+[34/100] Processing: 53.mp4... CORRECT
+[22/100] Processing: 31.mp4... CORRECT
+[23/100] Processing: 33.mp4... CORRECT
+[24/100] Processing: 35.mp4... CORRECT
+[25/100] Processing: 36.mp4... WRONG (Pred: Real | GT: Fake)
+[26/100] Processing: 37.mp4... CORRECT
+[27/100] Processing: 39.mp4... CORRECT
+[28/100] Processing: 40.mp4... CORRECT
+[29/100] Processing: 41.mp4... WRONG (Pred: Real | GT: Fake)
+[30/100] Processing: 42.mp4... CORRECT
+[31/100] Processing: 44.mp4... CORRECT
+[32/100] Processing: 48.mp4... CORRECT
+[33/100] Processing: 52.mp4... WRONG (Pred: Real | GT: Fake)
+[34/100] Processing: 53.mp4... CORRECT
+[28/100] Processing: 40.mp4... CORRECT
+[29/100] Processing: 41.mp4... WRONG (Pred: Real | GT: Fake)
+[30/100] Processing: 42.mp4... CORRECT
+[31/100] Processing: 44.mp4... CORRECT
+[32/100] Processing: 48.mp4... CORRECT
+[33/100] Processing: 52.mp4... WRONG (Pred: Real | GT: Fake)
+[34/100] Processing: 53.mp4... CORRECT
+[34/100] Processing: 53.mp4... CORRECT
+[35/100] Processing: 54.mp4... CORRECT
+[36/100] Processing: 55.mp4... CORRECT
+[37/100] Processing: 56.mp4... WRONG (Pred: Real | GT: Fake)
+[38/100] Processing: 58.mp4... CORRECT
+[39/100] Processing: 61.mp4... CORRECT
+[40/100] Processing: 63.mp4... CORRECT
+[41/100] Processing: 66.mp4... CORRECT
+[42/100] Processing: 67.mp4... CORRECT
+[43/100] Processing: 68.mp4... WRONG (Pred: Real | GT: Fake)
+[44/100] Processing: 69.mp4... WRONG (Pred: Real | GT: Fake)
+[45/100] Processing: 71.mp4... CORRECT
+[46/100] Processing: 72.mp4... CORRECT
+[47/100] Processing: 73.mp4... CORRECT
+[48/100] Processing: 75.mp4... CORRECT
+[49/100] Processing: 76.mp4... WRONG (Pred: Real | GT: Fake)
+[50/100] Processing: 78.mp4... WRONG (Pred: Real | GT: Fake)
+[51/100] Processing: 79.mp4... WRONG (Pred: Real | GT: Fake)
+[52/100] Processing: 80.mp4... CORRECT
+[53/100] Processing: 81.mp4... CORRECT
+[54/100] Processing: 82.mp4... CORRECT
+[55/100] Processing: 83.mp4... CORRECT
+[56/100] Processing: 84.mp4... CORRECT
+[57/100] Processing: 85.mp4... CORRECT
+[58/100] Processing: 86.mp4... CORRECT
+[59/100] Processing: 87.mp4... CORRECT
+[60/100] Processing: 89.mp4... CORRECT
+[61/100] Processing: 90.mp4... CORRECT
+[62/100] Processing: 91.mp4... CORRECT
+[63/100] Processing: 92.mp4... CORRECT
+[64/100] Processing: 93.mp4... WRONG (Pred: Real | GT: Fake)
+[65/100] Processing: 94.mp4... CORRECT
+[66/100] Processing: 96.mp4... CORRECT
+[67/100] Processing: 97.mp4... CORRECT
+[68/100] Processing: 98.mp4... CORRECT
+[69/100] Processing: 99.mp4... CORRECT
+[70/100] Processing: 101.mp4... CORRECT
+[71/100] Processing: 105.mp4... CORRECT
+[72/100] Processing: 106.mp4... WRONG (Pred: Real | GT: Fake)
+[73/100] Processing: 108.mp4... CORRECT
+[74/100] Processing: 109.mp4... WRONG (Pred: Real | GT: Fake)
+[75/100] Processing: 110.mp4... CORRECT
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[68/100] Processing: 98.mp4... CORRECT
+[69/100] Processing: 99.mp4... CORRECT
+[70/100] Processing: 101.mp4... CORRECT
+[71/100] Processing: 105.mp4... CORRECT
+[72/100] Processing: 106.mp4... WRONG (Pred: Real | GT: Fake)
+[73/100] Processing: 108.mp4... CORRECT
+[74/100] Processing: 109.mp4... WRONG (Pred: Real | GT: Fake)
+[75/100] Processing: 110.mp4... CORRECT
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[70/100] Processing: 101.mp4... CORRECT
+[71/100] Processing: 105.mp4... CORRECT
+[72/100] Processing: 106.mp4... WRONG (Pred: Real | GT: Fake)
+[73/100] Processing: 108.mp4... CORRECT
+[74/100] Processing: 109.mp4... WRONG (Pred: Real | GT: Fake)
+[75/100] Processing: 110.mp4... CORRECT
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[72/100] Processing: 106.mp4... WRONG (Pred: Real | GT: Fake)
+[73/100] Processing: 108.mp4... CORRECT
+[74/100] Processing: 109.mp4... WRONG (Pred: Real | GT: Fake)
+[75/100] Processing: 110.mp4... CORRECT
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[73/100] Processing: 108.mp4... CORRECT
+[74/100] Processing: 109.mp4... WRONG (Pred: Real | GT: Fake)
+[75/100] Processing: 110.mp4... CORRECT
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[74/100] Processing: 109.mp4... WRONG (Pred: Real | GT: Fake)
+[75/100] Processing: 110.mp4... CORRECT
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[75/100] Processing: 110.mp4... CORRECT
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[76/100] Processing: 111.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[78/100] Processing: 113.mp4... CORRECT
+[77/100] Processing: 112.mp4... WRONG (Pred: Real | GT: Fake)
+[78/100] Processing: 113.mp4... CORRECT
+[78/100] Processing: 113.mp4... CORRECT
+[79/100] Processing: 114.mp4... CORRECT
+[79/100] Processing: 114.mp4... CORRECT
+[80/100] Processing: 115.mp4... CORRECT
+[81/100] Processing: 116.mp4... CORRECT
+[82/100] Processing: 117.mp4... WRONG (Pred: Real | GT: Fake)
+[83/100] Processing: 120.mp4... CORRECT
+[84/100] Processing: 122.mp4... CORRECT
+[85/100] Processing: 124.mp4... CORRECT
+[86/100] Processing: 125.mp4... CORRECT
+[87/100] Processing: 126.mp4... CORRECT
+[88/100] Processing: 128.mp4... CORRECT
+[89/100] Processing: 129.mp4... CORRECT
+[90/100] Processing: 130.mp4... CORRECT
+[91/100] Processing: 131.mp4... WRONG (Pred: Real | GT: Fake)
+[92/100] Processing: 133.mp4... CORRECT
+[93/100] Processing: 134.mp4... WRONG (Pred: Real | GT: Fake)
+[94/100] Processing: 136.mp4... CORRECT
+[95/100] Processing: 137.mp4... WRONG (Pred: Real | GT: Fake)
+[96/100] Processing: 138.mp4... CORRECT
+[97/100] Processing: 141.mp4... WRONG (Pred: Real | GT: Fake)
+[98/100] Processing: 142.mp4... CORRECT
+[99/100] Processing: 143.mp4... CORRECT
+[100/100] Processing: 144.mp4... CORRECT
+
+========================================
+EVALUATION REPORT (Sample Size: 100)
+Total Time: 4033.02s
+========================================
+Accuracy: 78.00% (78/100)
+True Positives (Fake caught): 32
+True Negatives (Real passed): 46
+False Positives (Real blocked): 1
+False Negatives (Fake passed): 21
+========================================
