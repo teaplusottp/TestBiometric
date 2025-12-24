@@ -1,0 +1,111 @@
+PS D:\code\Silent-Face-Anti-Spoofing-master> py -3.12 .\update.py
+>>
+--- Final Debug Run (Limit: 100) ---
+Thresholds: Real_Score > 0.7 | Fake_Ratio > 0.25
+
+IDX   | VIDEO      | GT    | PRED  | RESULT   | INFO (Ratio | AvgReal)
+---------------------------------------------------------------------------
+1     | 1.mp4      | FAKE  | FAKE  | CORRECT  | R:0.43 | S:0.70 
+2     | 2.mp4      | REAL  | REAL  | CORRECT  | R:0.00 | S:0.98 
+3     | 3.mp4      | REAL  | REAL  | CORRECT  | R:0.00 | S:0.98 
+4     | 5.mp4      | FAKE  | REAL  | WRONG    | R:0.00 | S:0.99 <<
+5     | 7.mp4      | REAL  | FAKE  | WRONG    | R:1.00 | S:0.03 <<
+6     | 8.mp4      | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+7     | 10.mp4     | FAKE  | FAKE  | CORRECT  | R:0.81 | S:0.52 
+8     | 11.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.97 
+9     | 12.mp4     | FAKE  | REAL  | WRONG    | R:0.24 | S:0.81 <<
+10    | 13.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.99 
+11    | 14.mp4     | FAKE  | FAKE  | CORRECT  | R:0.80 | S:0.50 
+12    | 18.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+13    | 19.mp4     | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.03 
+14    | 20.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+15    | 22.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+16    | 24.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+17    | 25.mp4     | FAKE  | FAKE  | CORRECT  | R:0.99 | S:0.48 
+20    | 29.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:0.99 <<
+21    | 30.mp4     | FAKE  | FAKE  | CORRECT  | R:0.44 | S:0.57
+22    | 31.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00
+23    | 33.mp4     | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.45
+24    | 35.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.99
+25    | 36.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:0.94 <<
+26    | 37.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.99
+27    | 39.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00
+28    | 40.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.97
+29    | 41.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:0.99 <<
+30    | 42.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.98 
+31    | 44.mp4     | FAKE  | FAKE  | CORRECT  | R:0.42 | S:0.74 
+32    | 48.mp4     | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.46 
+33    | 52.mp4     | FAKE  | REAL  | WRONG    | R:0.01 | S:0.88 <<
+34    | 53.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.99 
+35    | 54.mp4     | FAKE  | REAL  | WRONG    | R:0.20 | S:0.77 <<
+36    | 55.mp4     | REAL  | REAL  | CORRECT  | R:0.14 | S:0.82 
+37    | 56.mp4     | FAKE  | REAL  | WRONG    | R:0.16 | S:0.86 <<
+38    | 58.mp4     | FAKE  | FAKE  | CORRECT  | R:0.99 | S:0.24 
+39    | 61.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+40    | 63.mp4     | FAKE  | FAKE  | CORRECT  | R:0.71 | S:0.62 
+41    | 66.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+42    | 67.mp4     | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.00 
+43    | 68.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:0.94 <<
+44    | 69.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:1.00 <<
+45    | 71.mp4     | FAKE  | FAKE  | CORRECT  | R:0.97 | S:0.60 
+46    | 72.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+47    | 73.mp4     | FAKE  | FAKE  | CORRECT  | R:0.40 | S:0.70 
+48    | 75.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+49    | 76.mp4     | FAKE  | REAL  | WRONG    | R:0.03 | S:0.88 <<
+50    | 78.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:1.00 <<
+51    | 79.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:0.98 <<
+52    | 80.mp4     | FAKE  | FAKE  | CORRECT  | R:0.97 | S:0.45 
+53    | 81.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+54    | 82.mp4     | FAKE  | FAKE  | CORRECT  | R:0.79 | S:0.62 
+55    | 83.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.97 
+56    | 84.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+57    | 85.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+58    | 86.mp4     | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.21 
+59    | 87.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:0.99 
+60    | 89.mp4     | FAKE  | FAKE  | CORRECT  | R:0.89 | S:0.59 
+61    | 90.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+62    | 91.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+63    | 92.mp4     | FAKE  | REAL  | WRONG    | R:0.13 | S:0.84 <<
+64    | 93.mp4     | FAKE  | REAL  | WRONG    | R:0.00 | S:0.98 <<
+65    | 94.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00
+66    | 96.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00
+67    | 97.mp4     | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.36
+68    | 98.mp4     | FAKE  | FAKE  | CORRECT  | R:0.44 | S:0.71
+69    | 99.mp4     | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00
+70    | 101.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:0.98
+71    | 105.mp4    | FAKE  | FAKE  | CORRECT  | R:0.38 | S:0.78
+72    | 106.mp4    | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.58
+73    | 108.mp4    | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.17
+74    | 109.mp4    | FAKE  | REAL  | WRONG    | R:0.00 | S:1.00 <<
+75    | 110.mp4    | REAL  | REAL  | CORRECT  | R:0.03 | S:0.96 
+76    | 111.mp4    | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.28 
+77    | 112.mp4    | FAKE  | FAKE  | CORRECT  | R:0.55 | S:0.70 
+78    | 113.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+79    | 114.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+80    | 115.mp4    | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.07 
+81    | 116.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+82    | 117.mp4    | FAKE  | REAL  | WRONG    | R:0.00 | S:0.97 <<
+83    | 120.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+84    | 122.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:0.98 
+85    | 124.mp4    | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.39 
+86    | 125.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:0.94 
+87    | 126.mp4    | FAKE  | FAKE  | CORRECT  | R:0.84 | S:0.62 
+88    | 128.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+89    | 129.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+90    | 130.mp4    | REAL  | REAL  | CORRECT  | R:0.03 | S:0.88 
+91    | 131.mp4    | FAKE  | REAL  | WRONG    | R:0.01 | S:0.93 <<
+92    | 133.mp4    | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.03 
+93    | 134.mp4    | FAKE  | REAL  | WRONG    | R:0.00 | S:1.00 <<
+94    | 136.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+95    | 137.mp4    | FAKE  | REAL  | WRONG    | R:0.00 | S:1.00 <<
+96    | 138.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+97    | 141.mp4    | FAKE  | REAL  | WRONG    | R:0.00 | S:0.88 <<
+98    | 142.mp4    | FAKE  | FAKE  | CORRECT  | R:1.00 | S:0.43 
+99    | 143.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+100   | 144.mp4    | REAL  | REAL  | CORRECT  | R:0.00 | S:1.00 
+
+========================================
+Accuracy: 78.00% (78/100)
+TP: 32, TN: 46, FP: 1, FN: 21
+========================================
+ko cải thiện gì @@
